@@ -1,0 +1,29 @@
+.sarlavha{
+    height: 30%;
+    position: center;
+    background-color: rgb(4, 255, 4);
+}
+.main{
+    width: 90%;
+    height: 60%;
+    margin: 5%;
+    border: 1px solid rgb(4, 255, 4);
+}
+.title{
+    text-align: center;
+    padding: 0.5em;
+}
+.container{
+    width: 95%;
+    margin:2.5%;
+}
+.form{
+    width: 98%;
+    margin: 1%;
+}
+.check{
+    width: 20%;
+    height: 100px;
+    margin-left: 40%;
+}
+
