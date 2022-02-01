@@ -184,7 +184,7 @@ if (isset($_POST['step']) && $_POST['step'] == 1) {
                             <input type="hidden" name="step" value="2">
 
                             <?php if ($bool == 0) { ?>
-                                <div class="form-btn"> <button class="submit-btn" name="buyurtma" type="submit">Buyurtma qilish</button> </div>
+                                <div class="form-btn"> <button class="submit-btn btn-primary" name="buyurtma" type="submit">Buyurtma qilish</button> </div>
                             <?php }  ?>
 
 
